@@ -11,7 +11,7 @@ function Loginh() {
         <input type="button" id="loginButton" class="buttons" value="Ingresar" />
 
         <p><a href="#">¿Olvidastes tu Contraseña?</a></p>
-    </section>
+      </section>
     )
   }
   
