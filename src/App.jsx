@@ -1,16 +1,16 @@
 import { CiSearch } from "react-icons/ci";
 //import { Empleado } from "./components/empleados/Empleados"
 //import Menu from "./components/home/Menu"
-//import Login from "./components/login/Loginh"
+import Login from "./components/login/Loginh"
 
 function App() {
 
   return (
     <section>
-      {/* <Login/> */}
+      <Login/>
       {/* <Menu/> */}
       {/* <Empleado/> */}
-      <CiSearch /> <label>Hola</label>
+      {/* <CiSearch /> <label>Hola</label> */}
     </section>
     
   )
