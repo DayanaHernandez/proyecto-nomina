@@ -12,9 +12,6 @@ function Loginh() {
 
         <p><a href="#">¿Olvidastes tu Contraseña?</a></p>
     </section>
-
-      
-    
     )
   }
   
