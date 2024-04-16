@@ -1,0 +1,69 @@
+.button-activar {
+  margin-right: 10px;
+  border-radius: 16px;
+  width: 110px;
+  border: solid 1px;
+  background-color: #fdf9c4;
+}
+
+.button-crear {
+  margin-right: 10px;
+  border-radius: 16px;
+  width: 110px;
+  border: solid 1px;
+  background-color: #b0f2c2;
+}
+
+.button-editar {
+  margin-right: 10px;
+  border-radius: 16px;
+  width: 110px;
+  border: solid 1px;
+  background-color: #b2e2f2;
+}
+.button-eliminar {
+  margin-right: 10px;
+  border-radius: 16px;
+  width: 110px;
+  border: solid 1px;
+  background-color: #fdd7e4;
+}
+.container-buttons {
+  display: flex;
+  justify-content: center;
+  margin-left: -250px;
+}
+
+.principal {
+  display: flex;
+  width: 64%;
+  height: 450px;
+  background-color: #f0f2f5;
+  flex-direction: row;
+  margin-left: 303px;
+  margin-top: 10px;
+  border-radius: 16px;
+}
+
+.button-principal {
+  display: flex;
+  flex-direction: row;
+
+  align-items: end;
+  margin-left: 500px;
+  margin-bottom: 20px;
+}
+
+.button-uno {
+  margin-right: 10px;
+  border-radius: 16px;
+  border: solid 1px;
+  background-color: #77dd77;
+}
+
+.button-dos {
+  border-radius: 16px;
+  border: solid 1px;
+
+  background-color: #fa5f49;
+}

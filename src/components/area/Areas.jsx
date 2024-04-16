@@ -1,5 +1,6 @@
-import "./empleados.css";
-function Empleados() {
+import "../empleados/empleados.css";
+
+function Areas() {
   return (
     <section>
       <div className="container-buttons">
@@ -19,4 +20,4 @@ function Empleados() {
     </section>
   );
 }
-export default Empleados;
+export default Areas;
